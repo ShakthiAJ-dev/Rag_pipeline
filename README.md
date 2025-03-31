@@ -43,7 +43,7 @@ streamlit run app.py
 3. The RAG pipeline will fetch relevant information and provide detailed responses.
 
 ## 📧 Contact
-For any questions, feel free to reach out at [your contact information].
+For any questions, feel free to reach out at ajshakthivelu@gmail.com
 
 ## 🛠️ Contributing
 Contributions are welcome! Feel free to submit issues or pull requests to enhance the project.
