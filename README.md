@@ -19,8 +19,8 @@ Follow these steps to set up and run the application:
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/ShakthiAJ-dev/Rag_pipeline.git
+    cd Rag_pipeline
     ```
 2. Create a `.env` file and add your OpenAI API key:
     ```env
